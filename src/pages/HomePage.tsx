@@ -125,7 +125,7 @@ const HomePage: React.FC = () => {
               <CardBody className="flex flex-col h-full">
                 <div className="aspect-video overflow-hidden mb-4 rounded-md">
                   <img
-                    src="https://images.pexels.com/photos/1709012/pexels-photo-1709012.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                    src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202504/indian-army-145207207-16x9_0.png?VersionId=2T5mtY73nyT7WtVYbzGl2W9.Aqh6V_iL"
                     alt="Indian Army"
                     className="w-full h-full object-cover"
                   />
@@ -169,7 +169,7 @@ const HomePage: React.FC = () => {
               <CardBody className="flex flex-col h-full">
                 <div className="aspect-video overflow-hidden mb-4 rounded-md">
                   <img
-                    src="https://images.pexels.com/photos/785293/pexels-photo-785293.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                    src="https://i0.wp.com/iadnews.in/wp-content/uploads/2021/12/indian-navy-1.jpg?fit=1024%2C683&ssl=1"
                     alt="Indian Navy"
                     className="w-full h-full object-cover"
                   />
